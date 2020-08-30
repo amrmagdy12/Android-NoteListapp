@@ -1,2 +1,2 @@
 # Android-NoteListapp
-Note List using Recycler Views , option menus...etc
+Note List using Recycler views applying Android framework features like swiping ...etc 
